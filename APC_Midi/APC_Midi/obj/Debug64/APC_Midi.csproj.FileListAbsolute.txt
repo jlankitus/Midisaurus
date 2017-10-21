@@ -1,0 +1,13 @@
+P:\BIM NY\HA BIM_Addins\DevelopmentRepository\APC_Midi\APC_Midi\bin\APC_Midi.dll
+P:\BIM NY\HA BIM_Addins\DevelopmentRepository\APC_Midi\APC_Midi\bin\APC_Midi.pdb
+P:\BIM NY\HA BIM_Addins\DevelopmentRepository\APC_Midi\APC_Midi\bin\Midi.dll
+P:\BIM NY\HA BIM_Addins\DevelopmentRepository\APC_Midi\APC_Midi\bin\Midi.pdb
+P:\BIM NY\HA BIM_Addins\DevelopmentRepository\APC_Midi\APC_Midi\bin\Midi.xml
+P:\BIM NY\HA BIM_Addins\DevelopmentRepository\APC_Midi\APC_Midi\obj\Debug64\APC_Midi.csprojResolveAssemblyReference.cache
+P:\BIM NY\HA BIM_Addins\DevelopmentRepository\APC_Midi\APC_Midi\obj\Debug64\APC_Midi.dll
+P:\BIM NY\HA BIM_Addins\DevelopmentRepository\APC_Midi\APC_Midi\obj\Debug64\APC_Midi.pdb
+E:\Documents\Handel\Development_Repository\aecHackathon\APC_Midi\APC_Midi\bin\APC_Midi.dll
+E:\Documents\Handel\Development_Repository\aecHackathon\APC_Midi\APC_Midi\bin\APC_Midi.pdb
+E:\Documents\Handel\Development_Repository\aecHackathon\APC_Midi\APC_Midi\obj\Debug64\APC_Midi.csprojResolveAssemblyReference.cache
+E:\Documents\Handel\Development_Repository\aecHackathon\APC_Midi\APC_Midi\obj\Debug64\APC_Midi.dll
+E:\Documents\Handel\Development_Repository\aecHackathon\APC_Midi\APC_Midi\obj\Debug64\APC_Midi.pdb
